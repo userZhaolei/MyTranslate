@@ -1,0 +1,2 @@
+# MyTranslate
+简单的retrofit结合RxJava翻译的项目
